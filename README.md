@@ -1,16 +1,7 @@
 # todo_algoriza
 
-Todo list Bloc Sqlite Notification
+Todo list GetX Sqlite Notification
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![لقطة الشاشة 2022-07-28 040114](https://user-images.githubusercontent.com/52707518/181404104-fdaaa009-9118-4f60-9b36-229873d8f959.png)
+![لقطة الشاشة 2022-07-28 040026](https://user-images.githubusercontent.com/52707518/181404108-e3b13c3e-c3ec-4920-98cc-6b76eb8ef909.png)
