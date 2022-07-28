@@ -1,6 +1,6 @@
 # todo_algoriza
 
-Todo list Bloc Sqlite
+Todo list Bloc Sqlite Notification
 
 ## Getting Started
 
